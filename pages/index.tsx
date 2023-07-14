@@ -46,7 +46,7 @@ const Home: NextPage = () => {
               <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
-                  href="https://thirdweb.com"
+                  href="https://ustechacademy.org/"
                   target="_blank"
                 >
                   Aragornian NFTs are the darkest NFTs ever made.
